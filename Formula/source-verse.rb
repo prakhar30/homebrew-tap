@@ -1,8 +1,8 @@
 class SourceVerse < Formula
   desc "Run multiple Claude Code sessions in parallel from a single terminal"
   homepage "https://github.com/prakhar30/Source-verse"
-  url "https://registry.npmjs.org/source-verse/-/source-verse-1.2.0.tgz"
-  sha256 "155f74c2b3833253c70b83686e70744be8c38f630c6df3cc8fbd0170b483621f"
+  url "https://registry.npmjs.org/source-verse/-/source-verse-1.3.0.tgz"
+  sha256 "110cb5220c04352771efcec4aa33168e7680be972d34a87d6e4fd9d097c2298b"
   license "MIT"
 
   depends_on "node"
